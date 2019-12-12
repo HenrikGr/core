@@ -1,0 +1,11 @@
+{
+  "name": "@hgc-ab/core",
+  "version": "1.0.0",
+  "description": "HGC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrik Grönvall",
+  "license": "MIT"
+}
