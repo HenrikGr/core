@@ -1,7 +1,8 @@
 {
   "name": "@hgc-ab/core",
   "version": "1.0.0",
-  "description": "HGC",
+  "private": false,
+  "description": "Package for the hgc-ab organisation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
