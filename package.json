@@ -1,12 +1,15 @@
 {
   "name": "@hgc-ab/core",
   "version": "1.0.1",
-  "private": false,
   "description": "Package for the hgc-ab organisation",
   "main": "index.js",
+  "author": "Henrik Grönvall <hgc-ab£outlook.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/henrikgr/log-service.git"
+  },
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Henrik Grönvall",
-  "license": "MIT"
+  }
 }
