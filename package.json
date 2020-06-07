@@ -3,13 +3,21 @@
   "version": "1.0.1",
   "description": "Package for the hgc-ab organisation",
   "main": "index.js",
-  "author": "Henrik Grönvall <hgc-ab£outlook.com>",
+  "author": "Henrik Grönvall <hgc-ab@outlook.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/henrikgr/log-service.git"
+    "url": "git://github.com/henrikgr/core.git"
   },
+  "keywords": [
+    "core",
+    "namespace"
+  ],
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
+  },
+  "engines": {
+    "node": "12.13.1",
+    "npm": "6.13.2"
   }
 }
